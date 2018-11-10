@@ -1,7 +1,7 @@
 <?php
 /** @package    Sige */
 
-/* GlobalConfig object contains all configuration information for the app */
+/* GlobalConfig object contains  all configuration information for the app */
 include_once("_global_config.php");
 include_once("_app_config.php");
 @include_once("_machine_config.php");
